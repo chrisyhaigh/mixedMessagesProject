@@ -1,0 +1,74 @@
+body {
+    background: url(resources/images/pexels-adrien-olichon-2931286.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: teal;
+    width: 100%;
+    margin-top: -0.475rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 1.25em;
+    padding: 0.2em;
+    text-align: center;
+
+}
+
+h1 {
+    margin: 0 auto;
+    padding: 0.5em;
+    font-weight: 100;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 700px;
+    background-color: teal;
+    border: solid white;
+    margin-top: 10em;
+    padding: 2.5em;
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    padding-bottom: 1em;
+}
+
+
+
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 3em;
+    color: black;
+    font-size: 1.5em;
+    width: 7em;
+    margin: 0 auto;
+    border-radius: 1em;
+    cursor: pointer;
+}
+
+
+#output {
+    padding-top: 2em;
+    font-size: 2.5em;
+    margin: 0 auto;
+    color: goldenrod;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+    
+
+
