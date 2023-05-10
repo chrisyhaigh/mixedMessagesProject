@@ -76,9 +76,6 @@ h1 {
         width: 400px;
     }
 
-    #output {
-
-    }
 }
 
 @media only screen and (max-width: 590px) {
@@ -111,9 +108,16 @@ p {
 
 @media only screen and (max-width: 590px) {
     p {
-        font-size: 1.1em;
+        font-size: 1em;
     }
 }
+
+@media only screen and (max-width: 470px) {
+    p {
+        font-size: 0.9em;
+    }
+}
+
 
 
 
@@ -171,6 +175,10 @@ button:hover {
         font-size: 0.8em;
     }
 }
+
+
+    
+
 
 
 
