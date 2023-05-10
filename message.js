@@ -3,6 +3,8 @@
 const btn = document.getElementById('btn');
 const output = document.getElementById('output');
 
+//Array created with all the content I would be including in my random quotes//
+
 let catchphrase = ["Best in the World! (CM Punk)", 
                   "It doesn\'t matter what your name is! (The Rock)", 
                   "Thats the bottom line cause Stone Cold says so! (Steve Austin)",
