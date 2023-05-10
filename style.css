@@ -1,6 +1,6 @@
 body {
     
-    background: url(resources/images/1471544526-hulk.jpg);
+    background: url(resources/images/HulkHoganWCWChampion-565bbfb03df78c6ddf5ce362.jpg);
     background-size: 100% 100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -83,15 +83,15 @@ h1 {
 
 @media only screen and (max-width: 590px) {
     .container {
-        height: 180px;
-        width: 300px;
+        height: 200px;
+        width: 350px;
     }
 }
 
-@media only screen and (max-width: 410px) {
+@media only screen and (max-width: 480px) {
     .container {
-        height: 160px;
-        width: 220px;
+        height: 190px;
+        width: 210px;
     }
 }
 
@@ -166,11 +166,12 @@ button:hover {
     }
 }
 
-@media only screen and (max-width: 410px) {
+@media only screen and (max-width: 482px) {
     #output {
         font-size: 0.8em;
     }
 }
+
 
 
     
